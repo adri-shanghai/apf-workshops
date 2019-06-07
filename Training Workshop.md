@@ -41,7 +41,7 @@ Address: No. 99 Shangda Road, Shanghai, China
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-**Tanning Workshop 2:**<br>
+**Training Workshop 2:**<br>
 **R for Demography and IUSSP Workshop on Estimating Migration with R**
 ==========================================================================================
 **Dates: Oct. 5-9, 2019, Shanghai, China**<br>
@@ -73,7 +73,7 @@ Address: No. 99 Shangda Road, Shanghai, China<br>
 
 -------------------------------------------------------------------------------------------------------------
 
-**Tanning Workshop 3:**
+**Training Workshop 3:**
 **Methods in developing sub-national population and human capital models and its applications**
 ==================================================================================================
 **Dates: Oct. 13-17, 2019, Shanghai, China**<br>
